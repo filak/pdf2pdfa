@@ -7,8 +7,8 @@ Install **Ghostscript 64 bit** - download from https://www.ghostscript.com/relea
 
 Copy the batchfile **pdf2pdfa.bat** to the Ghostscript \\bin directory.
 
-Make sure the \\bin is added to the PATH env variable. 
+Make sure the \\bin dir is added to the PATH env variable. 
 
 ## Usage
 
-     pdf2pdfa <PDF/A version> <file|dir> [output_dir]
+     pdf2pdfa <PDF/A version> <file|dir> [output_dir - default: _out]
