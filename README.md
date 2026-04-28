@@ -31,3 +31,9 @@ Make sure the \\bin dir is added to the PATH env variable.
 - `output_dir` (optional)
   - Output folder
   - Default: `_out`
+
+ ### Example
+
+     pdf2pdfa 3 my.pdf
+
+     pdf2pdfa 3 my_pdf_dir
