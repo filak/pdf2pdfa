@@ -12,3 +12,5 @@ Make sure the \\bin dir is added to the PATH env variable.
 ## Usage
 
      pdf2pdfa <PDF/A version> <file|dir> [output_dir - default: _out]
+
+> The output file(s) are written into _out sub-directory by default.
