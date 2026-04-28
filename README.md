@@ -1,5 +1,5 @@
 # pdf2pdfa
-Batch script to convert PDF to PDF/A using Ghostscript
+Batch script to convert PDF to PDF/A conformance level b using Ghostscript
 
 Supports:
 - PDF/A-1b
